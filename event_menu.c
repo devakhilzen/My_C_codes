@@ -8,7 +8,7 @@ int main()
     {
         printf("1:Hackathon\n");
         printf("2:COMPUTUTSALV\n");
-        printf("3:quis content\n");
+        printf("3:Quis content\n");
         printf("4:exit\n");
         printf("enter your choice\n");
         scanf("%d", &choice);
