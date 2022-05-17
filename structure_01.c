@@ -15,9 +15,9 @@ int main(){
     ak.marks=60;
     zen.marks=50;
     kane.marks=30;
-    ak.fav_char="hulk";
-    zen.fav_char="vision";
-    kane.fav_char="wanda";
+    ak.fav_char='h';
+    zen.fav_char='v';
+    kane.fav_char='w';
     printf("ak got %d marks",ak.marks);
     printf("zen got %d marks",zen.marks);
     printf("kane got %d marks",kane.marks);
