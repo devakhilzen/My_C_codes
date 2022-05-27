@@ -18,12 +18,12 @@ int main(){
     ak.fav_char='h';
     zen.fav_char='v';
     kane.fav_char='w';
-    printf("ak got %d marks",ak.marks);
-    printf("zen got %d marks",zen.marks);
-    printf("kane got %d marks",kane.marks);
-    printf("ak fav character is %c",ak.fav_char);
-    printf("zen fav character is %c",zen.fav_char);
-    printf("kane fav character is %c",kane.fav_char);
+    printf("ak got %d marks\n",ak.marks);
+    printf("zen got %d marks\n",zen.marks);
+    printf("kane got %d marks\n",kane.marks);
+    printf("ak fav character is %c\n",ak.fav_char);
+    printf("zen fav character is %c\n",zen.fav_char);
+    printf("kane fav character is %c\n",kane.fav_char);
     
     
     return 0;
